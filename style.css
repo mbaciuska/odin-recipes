@@ -1,1 +1,7 @@
-.img {height:auto; width: 500px;}
+* {text-align: center; background-color: #dca41b}
+
+ul {list-style-position: inside;}
+
+div {color:white; font-weight: bold;}
+
+h1 {color:white;}
